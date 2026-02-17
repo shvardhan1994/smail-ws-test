@@ -4,7 +4,7 @@ A clean, minimalist academic research group website built with Jekyll and GitHub
 
 ## 🌐 Live Site
 
-Visit the site at: `https://meincv.github.io/mysmartfarming12`
+Visit the site at: `https://smAIL-WS.github.io/smail-ws`
 
 ## 📁 Project Structure
 
