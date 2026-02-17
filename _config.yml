@@ -1,8 +1,8 @@
 title: Smart Farming AI Lab – Weihenstephan (smAIL-WS)
 email: ehsan.yaghoubi@hswt.de
 description: Applied research leveraging Artificial Intelligence for sustainable agriculture at Hochschule Weihenstephan-Triesdorf.
-url: "https://meincv.github.io"
-baseurl: "/mysmartfarming12"
+url: "https://smAIL-WS.github.io"
+baseurl: "/smail-ws"
 
 # Collections for easy updates
 collections:
