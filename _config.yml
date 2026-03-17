@@ -2,7 +2,7 @@ title: Smart Farming AI Lab – Weihenstephan (smAIL-WS)
 email: ehsan.yaghoubi@hswt.de
 description: Applied research leveraging Artificial Intelligence for sustainable agriculture at Hochschule Weihenstephan-Triesdorf.
 url: "https://smail-ws.netlify.app/"
-baseurl: "/smail-ws"
+baseurl: ""
 
 # Collections for easy updates
 collections:
@@ -31,4 +31,4 @@ navigation:
     url: /positions.html
 
 # Header image configuration
-header_image: /assets/images/smartfarming_long.jpg
+header_image: assets/images/smartfarming_long.jpg
